@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("Hello, World!\n");
+	printf("Hello, The World!\n");
+	printf("edited by kimyejun");
 	return 0;
 }
