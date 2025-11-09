@@ -1,7 +1,8 @@
 import <stdio.h>
 
 int main(){
-	printf("안녕하세요");
+	printf("안녕");
 	return 0;
+//수정본
 
 }
